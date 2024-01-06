@@ -1,0 +1,1 @@
+Application that requests a zip code from the user and searches for all the information through the ViaCEP API, inserting the json text information into a class and subsequently creating a json file with all the zip codes searched.
